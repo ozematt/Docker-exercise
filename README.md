@@ -1,3 +1,3 @@
 # DOCKER EXERCISE
 
-This repository contains only Dockerfile witch only prints "Hello Docker" when run.
+This repository contains Dockerfile witch only prints "Hello Docker" when run.
